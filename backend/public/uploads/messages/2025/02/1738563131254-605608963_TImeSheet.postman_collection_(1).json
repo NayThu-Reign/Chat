@@ -1,0 +1,274 @@
+{
+	"info": {
+		"_postman_id": "e790c3bb-74e2-4ab1-8621-2b6b8d6ca3d9",
+		"name": "TImeSheet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39803398"
+	},
+	"item": [
+		{
+			"name": "TimeSheetByEmp",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"staff_code\" : \"TL1476\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/getTimeSheetByEmp",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"getTimeSheetByEmp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TimeSheetEditDetail",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"letter_code\":\"20250107_0046\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/getTimeSheetDetail",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"getTimeSheetDetail"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SaveTimeSheet",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"dept_code\": \"D04\",\r\n  \"employee\": \"TL1476\",\r\n  \"date\": \"2025-02-03\",\r\n  \"record_list\": [\r\n    {\r\n            \"staff_code\": \"TL1203\",\r\n            \"dept_code\": \"D01\",\r\n            \"project\": \"P106\",\r\n            \"task\": \"<p>1/2025 လပိုင်း Expense များစာရင်းသွင်းခြင်း။</p>\",\r\n            \"starttime\": \"09:30:00\",\r\n            \"endtime\": \"10:00:00\",\r\n            \"duration\": 30,\r\n            \"status\": 2,\r\n            \"remark\": null,\r\n            \"customer\": \"Office\",\r\n            \"support_type\": 99,\r\n            \"projectText\": \"Office\",\r\n            \"DepartmentName\": \"Administration-ADM\",\r\n            \"staffName\": \"Aung Phyo Maung\"\r\n    }\r\n  ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/save-timesheet",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"save-timesheet"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteTimeSheet",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"letter_code\" : \"20241218_0047\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/delete-timesheet",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"delete-timesheet"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateTimeSheet",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"letter_code\" : \"20250201_0011\",\r\n  \"dept_code\": \"D01\",\r\n  \"employee\": \"TL1203\",\r\n  \"date\": \"2024-12-19\",\r\n  \"record_list\": [\r\n    {\r\n           \"staff_code\": \"TL1203\",\r\n            \"dept_code\": \"D01\",\r\n            \"project\": \"P106\",\r\n            \"task\": \"<p>1/2025 လပိုင်း Expense များစာရင်းသွင်းခြင်း။</p>\",\r\n            \"starttime\": \"09:30:00\",\r\n            \"endtime\": \"10:00:00\",\r\n            \"duration\": 30,\r\n            \"status\": 2,\r\n            \"remark\": null,\r\n            \"customer\": \"Nyein Win\",\r\n            \"support_type\": 99,\r\n            \"projectText\": \"Office\",\r\n            \"DepartmentName\": \"Administration-ADM\",\r\n            \"staffName\": \"Aung Phyo Maung\"\r\n    }\r\n  ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/update-timesheet",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"update-timesheet"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TimeSheetEntryPage",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"staff_code\" : \"TL1481\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/timesheet-entry",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"timesheet-entry"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAllProjectByDept",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"dept_code\":\"D05\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/getAllProjectbyDept",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"getAllProjectbyDept"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAllDepartment",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/getAllDepartment",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"getAllDepartment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getEmployeeByDept",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"dept_code\":\"D04\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://portal.trustlinkmm.com/api/getEmployeeByDept",
+					"protocol": "https",
+					"host": [
+						"portal",
+						"trustlinkmm",
+						"com"
+					],
+					"path": [
+						"api",
+						"getEmployeeByDept"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

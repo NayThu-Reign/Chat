@@ -1,0 +1,51 @@
+[10-May-2024 06:50:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[10-May-2024 06:52:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[10-May-2024 06:56:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-May-2024 06:56:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-May-2024 06:56:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-May-2024 06:56:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-May-2024 06:56:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-May-2024 06:56:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-May-2024 06:56:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-May-2024 06:56:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:18:15 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:19:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:19:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:20:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:21:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:22:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/trustl11/public_html/internal_management/vendor/composer/platform_check.php on line 24
+[20-Jun-2024 10:24:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:24:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:24:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:24:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:25:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:25:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:25:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:25:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:32:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:32:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:32:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:32:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:32:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:32:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:32:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:32:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:34:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:34:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:34:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:34:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:40:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:40:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jun-2024 10:40:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/trustl11/public_html/internal_management/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jun-2024 10:40:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[18-Dec-2024 07:38:40 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[18-Dec-2024 07:40:06 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[18-Dec-2024 08:20:07 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTables, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[18-Dec-2024 08:22:47 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTables1, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[18-Dec-2024 08:23:59 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTables122, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[02-Jan-2025 08:25:33 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[02-Jan-2025 08:26:43 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[02-Jan-2025 08:27:31 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable1, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[02-Jan-2025 08:28:17 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable1, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table.php on line 7
+[02-Jan-2025 08:28:59 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable1, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table1.php on line 7
+[02-Jan-2025 08:29:36 UTC] PHP Fatal error:  Cannot declare class CreatePushSubscriptionsTable1, because the name is already in use in /home/trustl11/public_html/helpdesk/database/migrations/create_push_subscriptions_table1.php on line 7

@@ -1,0 +1,9 @@
+
+POST  http://localhost:3000/api/chats/2/remove-users
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJuYXl0aHVyZWlnbjE1QGdtYWlsLmNvbSIsImlhdCI6MTczMDc5Nzc5MiwiZXhwIjoxNzMwODg0MTkyfQ.cEXIiDWj4wt7FqlV8qaCI6uH9BGMt6Y3eXxnLUFjhMM
+
+{
+   "userIds": ["4"]
+}
+
